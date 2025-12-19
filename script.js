@@ -1,1 +1,1 @@
-console.log("Sanli usillar syti islep atir");
+console.log("Sanli usillar sayti islep atir");
